@@ -9,8 +9,6 @@ This little project takes a template letter and a list of names, then magically 
 
 ## 📂 Project Structure
 
-<pre>
-
 Mail Merge Project Start/
 ├── Input/
 │   ├── Letters/
