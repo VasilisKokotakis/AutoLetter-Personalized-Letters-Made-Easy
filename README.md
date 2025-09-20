@@ -6,7 +6,6 @@
 Ever wanted to send **personalized letters** without typing the same thing 100 times?  
 This little project takes a template letter and a list of names, then magically spits out ready-to-send letters for each person. 🪄
 
----
 
 ## 📂 Project Structure
 
