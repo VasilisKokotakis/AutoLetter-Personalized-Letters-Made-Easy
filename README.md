@@ -99,6 +99,3 @@ Charlie
 
 Because life’s too short to copy-paste letters.
 This way, you can send out invites, reminders, or even prank notes faster than ever. 🚀
-
-```
-
