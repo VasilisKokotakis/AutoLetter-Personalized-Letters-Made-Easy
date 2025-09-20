@@ -10,16 +10,7 @@ This little project takes a template letter and a list of names, then magically 
 
 ```
 
-Mail Merge Project Start/
-├── Input/
-│   ├── Letters/
-│   │   └── starting\_letter.txt
-│   └── Names/
-│       └── invited\_names.txt
-├── Output/
-│   └── ReadyToSend/
-│       └── letter\_for\_<name>.txt
-└── main.py
+<pre> ```text Mail Merge Project Start/ ├── Input/ │ ├── Letters/ │ │ └── starting_letter.txt │ └── Names/ │ └── invited_names.txt ├── Output/ │ └── ReadyToSend/ │ └── letter_for_<name>.txt └── main.py ``` </pre>
 
 ```
 
