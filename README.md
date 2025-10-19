@@ -1,12 +1,12 @@
 
-# 💌 Mail Merge Magic
+# Mail Merge Magic
 
 Tired of typing the same letter over and over?
-This project takes a **template letter** + a **list of names** and automatically creates personalized letters for everyone. 🪄
+This project takes a **template letter** + a **list of names** and automatically creates personalized letters for everyone.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Mail Merge Project Start/
@@ -27,16 +27,16 @@ Mail Merge Project Start/
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
-1. Read the names list ✏️
-2. Find the `[name]` placeholder in the template 📄
-3. Replace it with each real name 👤
-4. Save each personalized letter into `ReadyToSend/` ✉️
+1. Read the names list
+2. Find the `[name]` placeholder in the template
+3. Replace it with each real name
+4. Save each personalized letter into `ReadyToSend/`
 
 ---
 
-## ▶️ Usage
+## Usage
 
 1. Clone this repo or download the project.
 2. Add your names to:
@@ -50,17 +50,17 @@ Mail Merge Project Start/
    Input/Letters/starting_letter.txt
    ```
 
-   👉 Use `[name]` wherever you want the recipient’s name to appear.
+    Use `[name]` wherever you want the recipient’s name to appear.
 4. Run the script:
 
    ```bash
    python3 main.py
    ```
-5. Open `Output/ReadyToSend/` and collect your letters. 🎉
+5. Open `Output/ReadyToSend/` and collect your letters. 
 
 ---
 
-## 💡 Example
+## Example
 
 **Template (`starting_letter.txt`):**
 
@@ -86,20 +86,20 @@ Charlie
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 * Python 3.x
-* No extra libraries — pure Python 🐍
+* No extra libraries - pure Python
 
 ---
 
-## 🎯 Why Use This?
+## Why Use This?
 
 Because life’s too short to copy-paste letters.
 With Mail Merge Magic, you can:
 
-* Send invitations ✉️
-* Share reminders 📢
-* Even automate fun messages 🤭
+* Send invitations
+* Share reminders
+* Even automate fun messages
 
 All with one simple script. 🚀
