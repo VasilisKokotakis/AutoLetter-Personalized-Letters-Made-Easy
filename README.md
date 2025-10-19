@@ -102,4 +102,8 @@ With Mail Merge Magic, you can:
 * Share reminders
 * Even automate fun messages
 
-All with one simple script. 🚀
+All with one simple script.
+
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
